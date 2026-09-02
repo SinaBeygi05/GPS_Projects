@@ -77,7 +77,11 @@ For the complete mathematical formulation, plots, processing steps, and detailed
 
 ## 👤 Author
 **Sina Beygi**
+---
 B.Sc. Student of Surveying Engineering
+---
 University of Tehran
-sina.beygi3561@ut.ac.ir**
+---
+sina.beygi3561@ut.ac.ir
+---
 sina.b.3561@gmail.com
