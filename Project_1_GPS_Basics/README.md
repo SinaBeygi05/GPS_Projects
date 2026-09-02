@@ -91,7 +91,7 @@ For the complete mathematical formulation, calculations, figures, and detailed a
 
 ## 👤 Author
 
-**Sina Beigi**
+**Sina Beygi**
 ---
 B.Sc. Student of Surveying Engineering
 ---
